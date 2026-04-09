@@ -17,6 +17,10 @@
 ### Huggingface MCP Unit 3
 ![Huggingface MCP Unit 3](mcp-unit-3.png)
 
+### [Claude code](claude-code.pdf)
+![Claude 101](claude-code.png)
+
+
 ---
 
 ## Referenze / References
