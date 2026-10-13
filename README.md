@@ -20,6 +20,11 @@
 ### [Claude code](claude-code.pdf)
 ![Claude 101](claude-code.png)
 
+### [Building effective human-agent teams](claude-academy-badge-building-effective-human-agent-teams.pdf)
+![Building effective human-agent teams](claude-academy-badge-building-effective-human-agent-teams.png)
+
+[Verifica / Verify](https://academy.claude.com/verify/b749ec944a529af9877fa9074552f5f3)
+
 
 ---
 
@@ -30,6 +35,7 @@
 | **Agent Course Fundamentals** | Certificato completamento corso agenti AI | Completion certificate of AI agents course |
 | **Huggingface MCP Unit 1** | Certificato completamento unità 1 del corso MCP su Huggingface | Completion certificate of unit 1 from Huggingface MCP course |
 | **Huggingface MCP Unit 3** | Certificato completamento unità 3 del corso MCP su Huggingface | Completion certificate of unit 3 from Huggingface MCP course |
+| **Building effective human-agent teams** | Badge di completamento del corso Claude Academy | Claude Academy course completion badge |
 
 ## Pubblicazioni / Publications
 
